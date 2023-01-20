@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewbiezApp", "NewbiezApp\NewbiezApp.csproj", "{0C6BEBB1-4B49-4941-B100-2F374AA9A67D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{76EE7663-80FF-452A-9B07-48AA04B61783}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C6BEBB1-4B49-4941-B100-2F374AA9A67D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C6BEBB1-4B49-4941-B100-2F374AA9A67D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C6BEBB1-4B49-4941-B100-2F374AA9A67D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C6BEBB1-4B49-4941-B100-2F374AA9A67D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2465FEA1-3688-4288-A6A9-B0B5E1A2F81F}
+	EndGlobalSection
+EndGlobal
